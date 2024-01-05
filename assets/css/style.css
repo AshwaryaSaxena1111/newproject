@@ -1,0 +1,54 @@
+.navbg{
+    background-color: #674c90;
+}
+.custom-container{
+    max-width: 1200px;
+}
+.customdropmenu {
+    background: #674c90;
+}
+.customdropmenu > li > a:hover{
+    background-color: blue;
+    color: #fff;
+}
+.logo > img {
+    width: 40px;
+}
+.whitetext{
+    color: #fff;
+}
+.navbarcustom .nav-link{
+    color: #fff;
+}
+.navbarcustom .nav-link.active{
+    color: aqua;
+}
+.carousel{
+    height: 400px;
+}
+.carousel-item{
+    height: 500px;
+}
+.carousel-item > img{
+    object-fit: cover;
+    object-position: center;
+    height: 100%;
+    width: 100%;
+}
+.cardclass{
+    display: flex;
+    margin-top: 113px;
+    justify-content: space-around;
+}
+.imgss{
+    height: 200px;
+    width: 287px;
+}
+.card-title{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.hello{
+    margin-top: 200px;
+}
